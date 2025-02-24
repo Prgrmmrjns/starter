@@ -57,4 +57,4 @@ The integration of AI in medicine isn't just a future possibility - it's happeni
 
 Follow our journey as we explore the fascinating world of AI in medicine. New articles and insights posted weekly.
 
-[Explore More](/llms_rare_diseases) | [Latest Research](/research) | [Contact Us](/contact)
+[Explore More](/llms_rare_diseases) | [About](/about) 
