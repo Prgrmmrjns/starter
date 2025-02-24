@@ -6,6 +6,9 @@ Welcome to a journey through the revolutionary intersection of Artificial Intell
 
 ## Transforming Healthcare Through AI
 
+![my image](./assets/ai_medicine.jpg)
+
+
 Artificial Intelligence is revolutionizing the medical field in unprecedented ways. From diagnosis to treatment planning, AI is becoming an indispensable tool in modern healthcare.
 
 ::counter
