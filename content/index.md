@@ -1,7 +1,5 @@
 # AI in Medicine: The Future of Healthcare
 
-
-
 ::alert{color="#4F46E5"}
 Welcome to a journey through the revolutionary intersection of Artificial Intelligence and Medical Science
 ::
@@ -10,18 +8,25 @@ Welcome to a journey through the revolutionary intersection of Artificial Intell
 
 Artificial Intelligence is revolutionizing the medical field in unprecedented ways. From diagnosis to treatment planning, AI is becoming an indispensable tool in modern healthcare.
 
-::counter{title="AI Impact Stats" description="Number of medical fields actively using AI"}
+::counter
+---
+description: Number of medical fields actively using AI
+title: AI Impact Stats
+---
 ::
 
 ## Key Areas of Impact
 
 ### 1. Medical Imaging Analysis
+
 AI algorithms can now detect abnormalities in medical images with remarkable accuracy, sometimes outperforming human radiologists in specific tasks.
 
 ### 2. Drug Discovery
+
 Machine learning is accelerating the drug discovery process, reducing development time from years to months.
 
 ### 3. Personalized Medicine
+
 AI systems analyze patient data to recommend personalized treatment plans, considering individual genetic makeup and medical history.
 
 ::alert{color="#059669"}
